@@ -8,7 +8,7 @@ class Solution {
                 case 'X': num = 10; break;
                 case 'L': num = 50; break;
                 case 'C': num = 100; break;
-                case 'D': num = 500; break;
+                case 'D': num = 500; break; //hello
                 case 'M': num = 1000; break;
             }
             if (4 * num < ans) ans -= num;
